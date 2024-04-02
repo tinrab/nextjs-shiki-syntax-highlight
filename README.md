@@ -1,6 +1,10 @@
 This is an example Next.js project that uses [Shiki](https://shiki.style/) to render code blocks with syntax highlighting.
 It uses [next-mdx-remote](https://github.com/hashicorp/next-mdx-remote) to render MDX content.
 
+![screenshot](./docs/screenshot-1.png)
+
+Preview: https://nextjs-shiki-syntax-highlight.vercel.app/
+
 ## Getting Started
 
 First, run the development server:
